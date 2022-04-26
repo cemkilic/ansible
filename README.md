@@ -1,0 +1,2 @@
+# ansible
+ansible ile geliştirme.
